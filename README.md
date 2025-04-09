@@ -1,1 +1,0 @@
-# fire-forest.ipynb
